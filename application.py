@@ -6,6 +6,11 @@ from flask import Flask, Response, jsonify, request, json, make_response, send_f
 
 app = Flask(__name__)
 
+@app.route("/")
+def hello():
+    return "Mock Services <br /> Services avaible: /v1/storesaround <br /> /v1/stores/1 <br /> /v1/storessuggestions"
+
+
 _request_delay = 2  # seconds
 
 def read_file(filepath):
@@ -27,7 +32,3 @@ def stores():
 def storessuggestions():
     time.sleep(_request_delay)
     return read_file('jsons/v1/storessuggestions.json')
-
-
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True, port=80)

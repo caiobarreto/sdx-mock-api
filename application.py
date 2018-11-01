@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "<p1><b>Mock Services</b></p1> <br /> Services avaible: <br /> /v1/storesaround <br /> /v1/stores/1 <br /> /v1/storessuggestions"
+    return "<p1><b>Mock Services</b></p1> <br /><br /><br /> Services avaible: <br /><br /> /v1/storesaround <br /> /v1/stores/1 <br /> /v1/storessuggestions"
 
 
 _request_delay = 2  # seconds

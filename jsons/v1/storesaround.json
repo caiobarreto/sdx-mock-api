@@ -1,0 +1,423 @@
+{
+    "data": [
+        {
+            "id": "25",
+            "type": "storesaround",
+            "attributes": {
+                "name": "Restaurante 1",
+                "address": "Rua xpto",
+                "countryId": 0,
+                "latitude": 47.2755546,
+                "longitude": 1.5551851
+            },
+            "relationships": {}
+        },
+        {
+            "id": "27",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 47.4918251,
+                "longitude": 1.184501
+            }
+        },
+        {
+            "id": "28",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 47.52296,
+                "longitude": 1.933359
+            }
+        },
+        {
+            "id": "24",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 47.5992469,
+                "longitude": 1.3217258
+            }
+        },
+        {
+            "id": "26",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 47.8014144,
+                "longitude": 1.0680849
+            }
+        },
+        {
+            "id": "3",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.8211241,
+                "longitude": 2.2492704
+            }
+        },
+        {
+            "id": "17",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.8320045,
+                "longitude": 2.3219854
+            }
+        },
+        {
+            "id": "15",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.8323783,
+                "longitude": 2.3207099
+            }
+        },
+        {
+            "id": "161",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.837898,
+                "longitude": 2.408586
+            }
+        },
+        {
+            "id": "46",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.84851,
+                "longitude": 2.332
+            }
+        },
+        {
+            "id": "37",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.858211,
+                "longitude": 2.34977
+            }
+        },
+        {
+            "id": "96",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.858379,
+                "longitude": 2.3533101
+            }
+        },
+        {
+            "id": "76",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.85852,
+                "longitude": 2.3533899
+            }
+        },
+        {
+            "id": "194",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.858753,
+                "longitude": 2.3510279
+            }
+        },
+        {
+            "id": "94",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.859218,
+                "longitude": 2.34781
+            }
+        },
+        {
+            "id": "127",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.85997,
+                "longitude": 2.35448
+            }
+        },
+        {
+            "id": "106",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.860408,
+                "longitude": 2.34838
+            }
+        },
+        {
+            "id": "79",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.861259,
+                "longitude": 2.3489
+            }
+        },
+        {
+            "id": "115",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.862228,
+                "longitude": 2.3494
+            }
+        },
+        {
+            "id": "87",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.86227,
+                "longitude": 2.34942
+            }
+        },
+        {
+            "id": "209",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.864635,
+                "longitude": 2.3476619
+            }
+        },
+        {
+            "id": "123",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.865848,
+                "longitude": 2.3507099
+            }
+        },
+        {
+            "id": "36",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.8661,
+                "longitude": 2.3508601
+            }
+        },
+        {
+            "id": "101",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.866088,
+                "longitude": 2.3538699
+            }
+        },
+        {
+            "id": "211",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.866779,
+                "longitude": 2.3512799
+            }
+        },
+        {
+            "id": "95",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.86758,
+                "longitude": 2.3516199
+            }
+        },
+        {
+            "id": "4",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.867622,
+                "longitude": 2.362397
+            }
+        },
+        {
+            "id": "178",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868114,
+                "longitude": 2.361948
+            }
+        },
+        {
+            "id": "147",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868274,
+                "longitude": 2.3615539
+            }
+        },
+        {
+            "id": "69",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868255,
+                "longitude": 2.3654489
+            }
+        },
+        {
+            "id": "230",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868476,
+                "longitude": 2.3604564
+            }
+        },
+        {
+            "id": "80",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868499,
+                "longitude": 2.36026
+            }
+        },
+        {
+            "id": "116",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868999,
+                "longitude": 2.3477799
+            }
+        },
+        {
+            "id": "131",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868854,
+                "longitude": 2.3629879
+            }
+        },
+        {
+            "id": "62",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868938,
+                "longitude": 2.3601
+            }
+        },
+        {
+            "id": "128",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.869171,
+                "longitude": 2.357268
+            }
+        },
+        {
+            "id": "134",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.868995,
+                "longitude": 2.367799
+            }
+        },
+        {
+            "id": "110",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.869007,
+                "longitude": 2.3677041
+            }
+        },
+        {
+            "id": "111",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.86901,
+                "longitude": 2.3681099
+            }
+        },
+        {
+            "id": "132",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.869132,
+                "longitude": 2.3634369
+            }
+        },
+        {
+            "id": "170",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.869113,
+                "longitude": 2.3675549
+            }
+        },
+        {
+            "id": "33",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.869449,
+                "longitude": 2.3615
+            }
+        },
+        {
+            "id": "228",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.8698,
+                "longitude": 2.3462409
+            }
+        },
+        {
+            "id": "88",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.86996,
+                "longitude": 2.35383
+            }
+        },
+        {
+            "id": "174",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.870159,
+                "longitude": 2.349071
+            }
+        },
+        {
+            "id": "168",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.87014,
+                "longitude": 2.35288
+            }
+        },
+        {
+            "id": "171",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.870231,
+                "longitude": 2.3513081
+            }
+        },
+        {
+            "id": "193",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.870513,
+                "longitude": 2.3504559
+            }
+        },
+        {
+            "id": "189",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.870468,
+                "longitude": 2.3530399
+            }
+        },
+        {
+            "id": "135",
+            "type": "storesaround",
+            "attributes": {
+                "latitude": 48.870498,
+                "longitude": 2.3516612
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 50,
+            "count": 20,
+            "per_page": 20,
+            "current_page": 1,
+            "total_pages": 3
+        }
+    },
+    "links": {
+        "self": "/stores/around?countryId=1&lat=1&lng=1&page=1",
+        "first": "/stores/around?countryId=1&lat=1&lng=1&page=1",
+        "next": "/stores/around?countryId=1&lat=1&lng=1&page=2",
+        "last": "/stores/around?countryId=1&lat=1&lng=1&page=3"
+    }
+}

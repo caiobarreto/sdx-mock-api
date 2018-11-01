@@ -1,0 +1,16 @@
+{
+    "data": {
+        "type": "stores",
+        "id": "1",
+        "attributes": {
+            "name": "HollyBelly",
+            "address": "5 Rue Lucien Sampaix, 75010 Paris",
+            "countryId": 1,
+            "latitude": 48.8710039,
+            "longitude": 2.358543
+        },
+        "links": {
+            "self": "http://sdx-api-mock.brazilsouth.cloudapp.azure.com/v1/stores/1"
+        }
+    }
+}

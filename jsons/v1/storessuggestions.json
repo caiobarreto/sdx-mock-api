@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "id": "25",
+            "type": "storessuggestions",
+            "attributes": {
+                "name": "CHARCUTERIE PARISIENNE",
+                "address": "11 CARROIR DES BARBIERS , 41130 SELLES SUR CHER",
+                "latitude": 47.2755546,
+                "longitude": 1.5551851
+            }
+        },
+        {
+            "id": "27",
+            "type": "storessuggestions",
+            "attributes": {
+                "name": "REST DE LA GARE",
+                "address": "19 AVENUE REPUBLIQUE , 41150 ONZAIN",
+                "latitude": 47.4918251,
+                "longitude": 1.184501
+            }
+        },
+        {
+            "id": "28",
+            "type": "storessuggestions",
+            "attributes": {
+                "name": "HOTEL DU LION D OR",
+                "address": "4 PLACE DE L EGLISE , 41210 ST VIATRE",
+                "latitude": 47.52296,
+                "longitude": 1.933359
+            }
+        },
+        {
+            "id": "24",
+            "type": "storessuggestions",
+            "attributes": {
+                "name": "PATAPAIN 692",
+                "address": "65 AVENUE DE VENDOME , 41000 BLOIS",
+                "latitude": 47.5992469,
+                "longitude": 1.3217258
+            }
+        },
+        {
+            "id": "26",
+            "type": "storessuggestions",
+            "attributes": {
+                "name": "REST CAPRICORNES",
+                "address": "8 BOULEVARD TREMAULT , 41100 VENDOME",
+                "latitude": 47.8014144,
+                "longitude": 1.0680849
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 5,
+            "count": 5,
+            "per_page": 20,
+            "current_page": 1,
+            "total_pages": 1
+        }
+    },
+    "links": {
+        "self": "/stores/closest?countryId=1&lat=1&lng=1&search=1&page=1",
+        "first": "/stores/closest?countryId=1&lat=1&lng=1&search=1&page=1",
+        "last": "/stores/closest?countryId=1&lat=1&lng=1&search=1&page=1"
+    }
+}

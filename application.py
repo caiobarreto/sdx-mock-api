@@ -32,3 +32,8 @@ def stores():
 def storessuggestions():
     time.sleep(_request_delay)
     return read_file('jsons/v1/storessuggestions.json')
+
+@app.route('/v1/storessearch', methods=['GET'])
+def storessuggestions():
+    time.sleep(_request_delay)
+    return read_file('jsons/v1/storessearch.json')

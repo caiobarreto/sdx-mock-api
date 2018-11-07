@@ -1,0 +1,52 @@
+{
+    "data": {
+        "merchants": [{
+            "id": "1",
+            "type": "search",
+            "attributes": {
+                "name": "Malagueta",
+                "address": "Alameda Araguaia, 1142",
+                "imageURL": "https://fastly.4sqi.net/img/general/width960/21NUGC3WYO42GBV2LFCM2ROCDVLLMRPAGJALKXGD0KGYT5NN.jpg"
+            }
+        },
+        {
+            "id": "2",
+            "type": "search",
+            "attributes": {
+                "name": "Pallas Grill Restaurante",
+                "address": "Calçada das Palmas, 77",
+                "imageURL": "https://img.stpu.com.br/?img=https://s3.amazonaws.com/pu-mgr/default/a0RG000000qJoEqMAK/5772e235e4b0dd93c4615961.jpg&w=620&h=400"
+            }
+        },
+        {
+            "id": "3",
+            "type": "search",
+            "attributes": {
+                "name": "Restaurante America",
+                "address": "Alameda Mamoré, 877",
+                "imageURL": "https://www.restauranteamerica.com.br/templates/img/restaurantes/alphaville.jpg"
+            }
+        }
+        ],
+        "merchantTypes": [{
+            "type": "Restaurant",
+            "imageURL": "https://picsum.photos/20/22",
+            "id": "restaurant"
+        }],
+    "meta": {
+        "pagination": {
+            "total": 50,
+            "count": 20,
+            "per_page": 20,
+            "current_page": 1,
+            "total_pages": 3
+        }
+    },
+    "links": {
+        "self": "/stores/around?countryId=1&lat=1&lng=1&page=1",
+        "first": "/stores/around?countryId=1&lat=1&lng=1&page=1",
+        "next": "/stores/around?countryId=1&lat=1&lng=1&page=2",
+        "last": "/stores/around?countryId=1&lat=1&lng=1&page=3"
+    }
+    }
+}
